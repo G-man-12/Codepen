@@ -1,0 +1,57 @@
+h2 {
+    color:blue;
+    justify-content: center;
+}
+h4 {
+    color:crimson
+}
+body {
+    align-content: center;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=tel] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  select {
+    width: 8%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+input-box {
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+input[type=text], input[type=tel] {
+    width: 30%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  input[type=email] {
+    width: 30%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  button[type=submit]:hover {
+      text-decoration: underline;
+  }
+  input[class=dob] {
+      width: 8%;
+  }
+
